@@ -8,3 +8,4 @@ def welcome():
 
 btn = Button(tk, text='touch me', command=welcome)
 btn.pack()
+tk.mainloop()
