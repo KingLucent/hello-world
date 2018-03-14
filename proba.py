@@ -1,3 +1,5 @@
+#
+# ver. 1.0
 from tkinter import *
 tk = Tk()
 
