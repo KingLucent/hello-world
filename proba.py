@@ -1,5 +1,5 @@
-#
-# ver. 1.0
+# author Oleslav Boychuk
+# ver. 1.1
 from tkinter import *
 tk = Tk()
 
