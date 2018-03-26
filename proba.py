@@ -1,11 +1,11 @@
 # author Oleslav Boychuk
-# ver. 1.1
+# ver. 1.2
 from tkinter import *
 tk = Tk()
 
 
 def welcome():
-    print('hello world')
+    print('hello world # author Oleslav Boychuk # ver. 1.2')
 
 
 btn = Button(tk, text='touch me', command=welcome)
